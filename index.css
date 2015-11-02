@@ -3,29 +3,113 @@ h1 {
 	font-size: 40px;
 	background-color: aqua;
 	font-family: "arial black"
+	font-weight: 300;
+	font-style: italic;
 }
+
 body {
 	background-color: aqua;
 	font-size: 20px;
-	font-family: "Georgia"
-
+	font-family: "Georgia";
+	width:90%;
+	padding:90px;
+	margin:0 auto;
 }
 .box {
-	border: 15px;
-	padding:200px;
-	margin: 40px;
+	border: 10px;
+	padding:20px;
+	margin: 30px;
 
 }
-.icons{
-	position: fixed;
-	left: 5px;
-	bottom: 10px;
+.icons {
+	height: 100px;
+	width: 100%;
+	text-align: middle;
+	margin: 0 auto;	
+	display: block;	
+	
 }	
-.img {
-	align:middle;
-	width:30px,
-	height:25px;
+.image1{
+	margin: 0 auto;
+	width: 250px;
+	height: 200px;
+	border-radius: 80%;
+	float: left;
+	padding-top: 10px;
+
 }
+ul {
+	list-style-type: none;
+}
+li {
+	float: left;
+	
+}
+a {
+	display: block;
+	width: 60px;
+}
+.image2{
+	width: 600px;
+	height: 350px;
+	float: middle;
+	padding:75px;
+}
+h2 {
+	font-size:40px;
+	font-style: italic;
+	font-family: "Georgia";
+	text-align: center;
+	color: red;
+
+}
+p {
+	padding-top: 10px;
+	padding-right: 25px
+	padding-left:10px;
+	padding-bottom: 25px;
+
+}
+
+.navbar {
+    width: 100%;
+    margin-left: auto ;
+    margin-right: auto ;
+    background-color: #ABCDEF;
+}
+.navbar ul {
+    list-style-type: none; 
+    text-align: center;
+    margin: 0 auto;
+    padding: 0px;
+    border:2px solid #FF0066;
+    display:block;
+    overflow: hidden;
+    
+
+}
+
+.navbar li{
+    float: left;
+    padding: 15px;
+    width: 150px;
+    margin-left: auto ;
+    margin-right: auto ;
+    
+}
+	
+.buttons {
+	float: middle;
+
+}
+
+
+
+
+	
+	
+	
+	
 	
 	
 
