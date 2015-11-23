@@ -90,7 +90,7 @@ p {
 }
 
 .navbar li{
-    float: left;
+    float: right;
     padding: 15px;
     width: 150px;
     margin-left: auto ;
