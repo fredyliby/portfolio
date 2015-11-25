@@ -1,21 +1,23 @@
 h1 {
 	text-align: center;
 	font-size: 40px;
-	background-color: aqua;
-	font-family: "arial black"
+	background-color:#ED3232;
+	font-family: "arial black";
 	font-weight: 300;
 	font-style: italic;
+
 }
 
 body {
-	background-color: aqua;
+	/*background-color: aqua;*/
 	font-size: 20px;
 	font-family: "Georgia";
 	width:90%;
-	padding:90px;
+	/*padding:35px;*/
 	margin:0 auto;
+	background-image:url(marlon.jpg);
 }
-.box {
+.container {
 	border: 10px;
 	padding:20px;
 	margin: 30px;
@@ -54,17 +56,20 @@ a {
 	height: 350px;
 	float: middle;
 	padding:75px;
+   
 }
 h2 {
 	font-size:40px;
 	font-style: italic;
 	font-family: "Georgia";
 	text-align: center;
-	color: red;
+	color: black;
+	margin-top:2px;
+	background-color: #ED3232;
 
 }
 p {
-	padding-top: 10px;
+	padding-top: 5px;
 	padding-right: 25px
 	padding-left:10px;
 	padding-bottom: 25px;
@@ -75,7 +80,7 @@ p {
     width: 100%;
     margin-left: auto ;
     margin-right: auto ;
-    background-color: #ABCDEF;
+    background-color: #CCCCA7;
 }
 .navbar ul {
     list-style-type: none; 
@@ -95,18 +100,55 @@ p {
     width: 150px;
     margin-left: auto ;
     margin-right: auto ;
+
     
 }
 	
 .buttons {
 	float: middle;
+	font-size: 15px;
+	font-style: italic;
+	font-weight: bold;
+	 height: 50px;
+    width: 75px;
+    border-radius: 70px;
+    border: 1px solid #1A1C1C;
 
+}
+h3 {
+	font-size:30px;
+	font-style: italic;
+	font-family: "Georgia";
+
+}
+h4 {
+	font-size:25px;
+	font-style: italic;
+	font-family: "Georgia";
+}
+h5 {
+	font-size:20px;
+	font-style: italic;
+	font-family: "Georgia";
+}
+.header1 {
+	font-size:25px;
+	font-style: italic;
+	font-family: "Georgia";
+}
+#intro {
+	font-size: 20px;
+}
+
+.name {
+	background-color: #CCCCA7;
+	font-family:  "sans-serif";
+	font-size: 45px;
+	font-style: italic;
+	padding: 5px;
 }
 
 
-
-
-	
 	
 	
 	
