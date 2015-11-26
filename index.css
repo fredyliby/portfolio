@@ -55,7 +55,7 @@ a {
 	width: 600px;
 	height: 350px;
 	float: middle;
-	padding:85px;
+	padding:68px;
    
 }
 h2 {
@@ -153,6 +153,10 @@ h5 {
 }
 .portfolio1 {
 	float: center;
+}
+
+.fa-icons {
+	display: inline-block;
 }
 	
 	
