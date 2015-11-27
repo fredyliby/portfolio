@@ -55,7 +55,7 @@ a {
 	width: 600px;
 	height: 350px;
 	float: middle;
-	padding:68px;
+	padding:60px;
    
 }
 h2 {
@@ -113,7 +113,7 @@ p {
 	 height: 50px;
     width: 75px;
     border-radius: 70px;
-    border: 1px solid #1A1C1C;
+    border: 2px solid #1A1C1C;
 
 }
 h3 {
@@ -157,6 +157,10 @@ h5 {
 
 .fa-icons {
 	display: inline-block;
+}
+.logos {
+	float: left;
+	 border:2px solid #FF0066;
 }
 	
 	
